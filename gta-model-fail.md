@@ -1,6 +1,7 @@
-<h4>GTA:SA had trouble loading a model.</h4>
 
-That's sad.<br/>
+##GTA:SA had trouble loading a model.
+
+That's sad.
 
 Model id: <span id="modelid"></span> (<span id="reason"></span>
 
