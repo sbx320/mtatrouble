@@ -1,5 +1,5 @@
 
-##GTA:SA had trouble loading a model.
+## GTA:SA had trouble loading a model.
 
 That's sad.
 
